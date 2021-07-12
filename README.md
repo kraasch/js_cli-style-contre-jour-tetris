@@ -17,7 +17,6 @@ NOTE: yes, your score at the top is in binary.
 
 ## demos
 
-(|![demo-img-num-1](./demo/08fe6df026f981ab8305.png)|![demo-img-num-2](./demo/4a8bb691b238b2f5ea92.png)|![demo-img-num-3](./demo/6ee649c50a4514c61026.png)|
-|:---:|:---:|:---:|
-|![demo-img-num-4](./demo/d84e40254070093bc5c4.png)|![demo-img-num-5](./demo/ee2c5ec6275a8f07f031.png)|![demo-img-num-6](./demo/fc2c11c3a3033af9036f.png)|)
-
+| <img width='100' alt='demo' src='./demo/08fe6df026f981ab8305.png'> | <img width='100' alt='demo' src='./demo/4a8bb691b238b2f5ea92.png'> | <img width='100' alt='demo' src='./demo/6ee649c50a4514c61026.png'> |
+|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
+| <img width='100' alt='demo' src='./demo/d84e40254070093bc5c4.png'> | <img width='100' alt='demo' src='./demo/ee2c5ec6275a8f07f031.png'> | <img width='100' alt='demo' src='./demo/fc2c11c3a3033af9036f.png'> |

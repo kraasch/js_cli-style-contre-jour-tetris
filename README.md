@@ -4,8 +4,8 @@
 keys are:
 
  - p     - toggle pause.
- - hl    - move.
- - jk    - turn.
+ - hl    - move left and right
+ - jk    - rotate left and right.
  - r     - restart.
  - space - make shape go fast.
 
